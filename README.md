@@ -1,7 +1,5 @@
-# Predictive Modelling Competition 🐣
+# Predictive Modelling Competition
 
-
-### LAST GROUP ACTIVITY! 👹
 
 For this group project, we will be using the Bird Species dataset from [Kaggle](https://www.kaggle.com/gpiosenka/100-bird-species) which will test your skills in image classification
 
@@ -17,6 +15,3 @@ This is a group project and you are expected to present your model and findings 
 - It can be beneficial to reshape some of the images to reduce some of the data - this will help speed up your model's training time
 - Do some research to find out ways to help boost your model's performance (ie data augmentation)
 - Make sure to save your model and during the presentation you will load your model and evaluate its performance on the validation set
-- Good Luck! 
-
-![](https://media.giphy.com/media/bTixcIRW1bWqk/giphy.gif)
